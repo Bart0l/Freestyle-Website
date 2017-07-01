@@ -4,28 +4,18 @@ Projekt napisano w okresie: 2016_11
 Projekt strony internetowej z użyciem HTML5/CSS3.
 
 Wymagania projektowe:
-
 -zawartość strony zgodna z tematem projektu
-
 -HTML5
-
 -walidowanie strony
-
 -układ strony:
-
-~podział strony na kilka elementów (nagłówek, menu, stopka, pole z treścią) 
-
+ ~podział strony na kilka elementów (nagłówek, menu, stopka, pole z treścią) 
 -rozdzielenie treści na kilka plików (przynajmniej trzy) 
-
 -menu zawierające przynajmniej trzy opcje, a jedna z nich z dodatkowymi opcjami podrzędnymi;
 zaznaczanie wybranej opcji 
 -umieszczenie na stronie multimediów:
-
 ~grafika
-
 -galeria zdjęć (bitmapy) (przynajmniej 5) ma być zorganizowana w postaci miniaturek,które można obejrzeć powiększone 
--grafika wektorowa SVG (grafika może być z internetu, samemu należy dodać jej
-transformację i prostą animację) 
+-grafika wektorowa SVG (grafika może być z internetu, samemu należy dodać jej transformację i prostą animację) 
 -animacja (wykorzystanie mechanizmów HTML5, CSS)
 -umieszczenie na stronie:
 ~tabeli 

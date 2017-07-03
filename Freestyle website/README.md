@@ -57,4 +57,3 @@ zaznaczanie wybranej opcji
 ~przyciski do czyszczenia zawartości formularza oraz wysyłania danych
 
 -dbałość o estetyczny wygląd strony
-

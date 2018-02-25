@@ -1,4 +1,5 @@
 # Freestyle-Website
+
 Projekt napisano w okresie: 2016_11
 
 Projekt strony internetowej z użyciem HTML5/CSS3.
@@ -13,28 +14,27 @@ Wymagania projektowe:
 
 -układ strony:
 
- ~podział strony na kilka elementów (nagłówek, menu, stopka, pole z treścią) 
- 
--rozdzielenie treści na kilka plików (przynajmniej trzy) 
+~podział strony na kilka elementów (nagłówek, menu, stopka, pole z treścią)
 
--menu zawierające przynajmniej trzy opcje, a jedna z nich z dodatkowymi opcjami podrzędnymi;
-zaznaczanie wybranej opcji 
+-rozdzielenie treści na kilka plików (przynajmniej trzy)
+
+-menu zawierające przynajmniej trzy opcje, a jedna z nich z dodatkowymi opcjami podrzędnymi; zaznaczanie wybranej opcji
 
 -umieszczenie na stronie multimediów:
 
 ~grafika
 
--galeria zdjęć (bitmapy) (przynajmniej 5) ma być zorganizowana w postaci miniaturek,które można obejrzeć powiększone 
+-galeria zdjęć (bitmapy) (przynajmniej 5) ma być zorganizowana w postaci miniaturek,które można obejrzeć powiększone
 
--grafika wektorowa SVG (grafika może być z internetu, samemu należy dodać jej transformację i prostą animację) 
+-grafika wektorowa SVG (grafika może być z internetu, samemu należy dodać jej transformację i prostą animację)
 
 -animacja (wykorzystanie mechanizmów HTML5, CSS)
 
 -umieszczenie na stronie:
 
-~tabeli 
+~tabeli
 
-~adresu e-mail z możliwością wysłania poczty 
+~adresu e-mail z możliwością wysłania poczty
 
 ~odsyłaczy do innych stron internetowych
 
@@ -46,7 +46,7 @@ zaznaczanie wybranej opcji
 
 ~klasy (przynajmniej 3)
 
-~identyfikator (przynajmniej 1) 
+~identyfikator (przynajmniej 1)
 
 -stworzenie prostej ankiety-formularza
 
